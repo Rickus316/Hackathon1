@@ -156,20 +156,20 @@ button {
 
 /* Meal Details */
 .meal-details {
-  background: #fff;
+  background: #fadf7f;
   border: 1px solid #ddd;
   padding: 20px;
   margin: 20px auto;
-  width: 90%;
-  max-width: 600px;
+  width: 80% !important; /* Ensure the width is applied */
+  max-width: 200px !important; /* Ensure the max-width is applied */
   text-align: center;
   border-radius: 10px;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
 
 .meal-details img {
-  width: 100%;
-  max-width: 400px;
+  width: 80%;
+  max-width: 200px;
   border-radius: 10px;
   margin: 20px 0;
 }
