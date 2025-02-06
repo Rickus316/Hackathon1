@@ -2,6 +2,8 @@
 
 # Overview
 
+This is an updated version of our group project that I decided to play around with and see what I could come up with.
+
 Recipe Finder is our first hackathon project implementing an interactive Front-End web application using HTML, CSS, and Javascipt as part of Code Institute's AI Augmented Full Stack Software Developer Bootcamp. Our project's main goal was to successfully connect to an API. We decided to make a recipe finder website and connect it to a Recipe API so that users can easily search and find recipes.
 
 The live project can found here: <a href="https://emilyhugs.github.io/Hackathon1/" target="_blank">Live Project</a>
